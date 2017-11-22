@@ -156,6 +156,9 @@ Note: -m ./model is optional and can be disregarded if you do not wish to load t
     - Exit
         - Exit the programme and return to command line
 
+## Additional Reference
+Please go through emnist_image_recognition_ppt.pdf for additional reference.
+
 ## Reference
 Dataset
 - [1] Cohen, G., Afshar, S., Tapson, J., & van Schaik, A. (2017). EMNIST: an extension of MNIST to handwritten letters. Retrieved from http://arxiv.org/abs/1702.05373
